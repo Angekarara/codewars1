@@ -3,4 +3,4 @@ function integrate(coefficient, exponent) {
     const Coefficient = coefficient / Exponent;
     return `${Coefficient}x^${Exponent}`;
   }
-  console.log(integrate(5, 0));
+  console.log(integrate(5, 0)); //output is 5x^1
