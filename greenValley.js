@@ -1,5 +1,5 @@
 function makeValley(arr) {
-    arr.sort((a, b) => b - a); // Sort the array in descending order
+    arr.sort((a, b) => b - a); 
   
     const leftWing = [];
     const rightWing = [];
@@ -12,5 +12,5 @@ function makeValley(arr) {
       }
     }
   
-    return rightWing.concat(leftWing); // Concatenate right wing and reversed left wing
+    return rightWing.concat(leftWing); 
   }
