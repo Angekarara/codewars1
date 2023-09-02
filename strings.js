@@ -1,3 +1,3 @@
 function solution(str, ending){
-    return str.endsWith(ending);// TODO: complete
+    return str.endsWith(ending);
   }
