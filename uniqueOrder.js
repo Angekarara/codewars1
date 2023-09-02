@@ -12,4 +12,4 @@ const  uniqueInOrder = function(iterable) {
     }
   
     return uniqueList;
-};
+}
