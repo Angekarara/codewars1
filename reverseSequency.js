@@ -5,3 +5,4 @@ const reverseSeq = n => {
     }
     return result;
   }
+  console.log(reverseSeq(8))
