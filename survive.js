@@ -2,4 +2,4 @@ function hero(bullets, dragons){
       const bulletsNeeded = dragons * 2;
       return bullets >= bulletsNeeded;
     }
-    console.log(hero(4,6))
+    console.log(hero(7,6))
