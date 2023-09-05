@@ -17,3 +17,5 @@ function persistence(num) {
     }
     return result;
 }
+console.log(persistence(9))
+console.log(persistence(11))
