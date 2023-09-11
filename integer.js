@@ -12,6 +12,5 @@ class SmallestIntegerFinder {
 }
 
 const finder = new SmallestIntegerFinder();
-const array = [3, 1, 4, 1, 5, 9, 2, 6]; 
-const result = finder.findSmallestInt(array);
-console.log("Smallest Integer:", result);
+console.log(finder.findSmallestInt([1,6,7,2]))
+console.log(finder.findSmallestInt([5,6,7,3]))
