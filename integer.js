@@ -14,3 +14,4 @@ class SmallestIntegerFinder {
 const finder = new SmallestIntegerFinder();
 console.log(finder.findSmallestInt([1,6,7,2]))
 console.log(finder.findSmallestInt([5,6,7,3]))
+console.log(finder.findSmallestInt([11,34,67,90]))
