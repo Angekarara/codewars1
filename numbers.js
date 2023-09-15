@@ -17,3 +17,5 @@ function numbersWithDigitInside(x, d) {
   
     return [count, sum, product];
   }
+  console.log(numbersWithDigitInside(3,6))
+  console.log(numbersWithDigitInside(9,5))
