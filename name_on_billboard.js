@@ -12,3 +12,4 @@ function billboard(name, price = 30) {
   }
  console.log(billboard('Ernest'))
  console.log(billboard('Moreen',50))
+ console.log(billboard('Maria',20))
