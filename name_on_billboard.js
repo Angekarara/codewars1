@@ -10,4 +10,5 @@ function billboard(name, price = 30) {
     }
     return cost;
   }
+ console.log(billboard('Ernest'))
  
