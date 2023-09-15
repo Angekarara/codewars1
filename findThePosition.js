@@ -9,4 +9,4 @@ function position(letter) {
     }
   }
   console.log(position('Anna'))
-  
+  console.log(position('g'))
