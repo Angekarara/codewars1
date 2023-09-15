@@ -14,3 +14,4 @@ function makeValley(arr) {
   
     return rightWing.concat(leftWing); 
   }
+  console.log(makeValley([3,5,1,2,9,6,4]))
