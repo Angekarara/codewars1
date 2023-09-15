@@ -8,3 +8,5 @@ function position(letter) {
       return "Invalid input. Please provide a single letter from the alphabet.";
     }
   }
+  console.log(position('Anna'))
+  
