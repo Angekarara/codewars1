@@ -3,8 +3,5 @@ function removeEverySecond(array) {
     return result;
   }
   
-  // Test case
-  const originalArray = ["Keep", "Remove", "Keep", "Remove", "Keep", "Remove"];
-  const newArray = removeEverySecond(originalArray);
-  console.log(newArray); // Output: ["Keep", "Keep", "Keep"]
+  console.log(removeEverySecond(["Keep", "Remove", "Keep", "Remove", "Keep", "Remove"])); // Output: ["Keep", "Keep", "Keep"]
   
