@@ -18,3 +18,4 @@ function outed(meet, boss) {
   }
 }
 console.log(outed(1,3))
+console.log(outed(8,1))
