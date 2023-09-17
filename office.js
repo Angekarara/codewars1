@@ -17,3 +17,4 @@ function outed(meet, boss) {
     return 'Nice Work Champ!';
   }
 }
+console.log(outed(1,3))
