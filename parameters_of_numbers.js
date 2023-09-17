@@ -11,3 +11,4 @@ function parameter(n) {
     
   }
   console.log(parameter(1234)); // Output: 120
+  console.log(parameter(3456));// Output: 360
