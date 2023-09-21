@@ -6,3 +6,4 @@ const reverseSeq = n => {
     return result;
   }
   console.log(reverseSeq(8))
+  console.log(reverseSeq(54))
