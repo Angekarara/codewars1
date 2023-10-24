@@ -18,7 +18,7 @@ const earthquake = [
   [3, 1, 1],
   [1, 1, 2],
 ];
-const age = 2;
+const age = 678;
 
 const result = strongEnough(earthquake, age);
 
