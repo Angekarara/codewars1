@@ -13,3 +13,13 @@ function strongEnough(earthquake, age) {
     ? "Safe!"
     : "Needs Reinforcement!";
 }
+const earthquake = [
+  [2, 3, 1],
+  [3, 1, 1],
+  [1, 1, 2],
+];
+const buildingAge = 10;
+
+const result = strongEnough(earthquake, buildingAge);
+
+console.log(result);
