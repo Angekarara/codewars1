@@ -18,8 +18,8 @@ const earthquake = [
   [3, 1, 1],
   [1, 1, 2],
 ];
-const buildingAge = 10;
+const age = 10;
 
-const result = strongEnough(earthquake, buildingAge);
+const result = strongEnough(earthquake, age);
 
 console.log(result);
